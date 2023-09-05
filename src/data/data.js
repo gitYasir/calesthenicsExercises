@@ -4,39 +4,36 @@ const data = {
     "Link": "/warm-ups",
     "Exercises": [
       {
-        "Exercise": "Jumping Jacks",
-        "Reps/Duration": "Do for 2 minutes",
+        "Exercise": "Lateral Squat to T-Spine Rotation",
+        "Sets": "2–5",
+        "Reps": "5–10",
         "Description":
-          "Start with your feet together and your arms at your sides, then jump and spread your feet while raising your arms above your head.",
-        "Link": "",
+          "Lunge out to your left side and lower your body until your left leg is bent about 90 degrees and your trailing leg is straight. Hold for a moment, and then reverse the motion, twisting your body to get into a lunge position on the right leg, facing that direction.\n\nPlant your left hand on the floor and twist your torso to the right, reaching your right hand overhead.\n\nRepeat the entire movement on the opposite side.",
+        "Link": "https://www.youtube.com/watch?v=iYh2CaWKX94&t=58s",
       },
       {
-        "Exercise": "Arm Circles",
-        "Reps/Duration": "Do for 1 minute",
+        "Exercise": "Adductor to T-Spine Rotation",
+        "Sets": "2–5",
+        "Reps": "5–10",
         "Description":
-          "Extend your arms out to the sides and make small circles with your arms, gradually increasing the size of the circles.",
-        "Link": "",
+          "Get on all fours and extend your right leg to the side. Use your hands to gently push your hips back so your feel a stretch on the inner side of your right thigh. Allow your foot to roll backward and point upward.\n\nPush your hips forward again and twist your torso to the right, reaching your right arm overhead. Complete your reps and then repeat on the opposite side.",
+        "Link": "https://www.youtube.com/watch?v=iYh2CaWKX94&t=90s",
       },
       {
-        "Exercise": "Leg Swings",
-        "Reps/Duration": "Do for 1 minute",
+        "Exercise": "Mountain Climber to Hip Flexor Stretch",
+        "Sets": "2–5",
+        "Reps": "5–10",
         "Description":
-          "Stand next to a wall or support, and swing one leg forward and backward in a controlled manner.",
-        "Link": "",
+          "Get on all fours, and then step your left foot forward, planting your foot outside your left hand. Try to straighten your back so that it’s flat from your head to your pelvis. Relax, and reach back to grasp the top of your right foot.\n\nGently pull it forward so you feel a stretch on your right thigh and hip. At the same time, extend your back and use your left hand to push on your left knee so you end up in a tall kneeling position.\n\nHold the stretch for a moment, and then let your right foot go. Repeat the movement on the opposite side. Avoid hyperextending your lower back when you pull on your foot.",
+        "Link": "https://www.youtube.com/watch?v=iYh2CaWKX94&t=120s",
       },
       {
-        "Exercise": "Torso Twists",
-        "Reps/Duration": "Do for 1 minute",
+        "Exercise": "Shinbox to Hip Extension",
+        "Sets": "2–5",
+        "Reps": "5–10",
         "Description":
-          "Stand with your feet shoulder-width apart and twist your torso from side to side, keeping your hips stationary.",
-        "Link": "",
-      },
-      {
-        "Exercise": "High Knees",
-        "Reps/Duration": "Do for 1 minute",
-        "Description":
-          "Stand in place and march while lifting your knees as high as possible with each step.",
-        "Link": "",
+          "Sit on the floor with your left leg bent in front of you and your right leg bent behind you. Press your hands into the floor and push your chest up and out. Now rotate your right leg up off the floor as you rotate your left leg up and to the right, so your body turns and you end up in the same starting position but with your legs opposite. From there, extend your hips so you rise to a tall kneeling position.\n\nLower your hips back to the floor, plant your hands, and repeat the movement to the other side.",
+        "Link": "https://www.youtube.com/watch?v=iYh2CaWKX94&t=186s",
       },
     ],
   },
@@ -50,49 +47,49 @@ const data = {
         "Reps/Duration": "As many as possible",
         "Description":
           "Use a shoulder-width grip and turn your palms to face you.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=ieWAfIFh_Vg&t=49s",
       },
       {
         "Exercise": "Dip",
         "Reps/Duration": "As many as possible",
         "Description":
           "Lower your body until your upper arms are parallel to the floor.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=ieWAfIFh_Vg&t=60s",
       },
       {
         "Exercise": "Jump Squat",
         "Reps/Duration": "As many as possible",
         "Description":
           "Quickly lower your body until your thighs are parallel to the floor and then explode upward.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=ieWAfIFh_Vg&t=75s",
       },
       {
         "Exercise": "Pushup",
         "Reps/Duration": "As many as possible",
         "Description":
           "Place your hands just outside shoulder width and lower your body until your chest is about an inch above the floor.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=ieWAfIFh_Vg&t=88s",
       },
       {
         "Exercise": "Crunch",
         "Reps/Duration": "As many as possible",
         "Description":
           "Raise your torso until your shoulder blades are off the floor.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=ieWAfIFh_Vg&t=128s",
       },
       {
         "Exercise": "Mountain Climber",
         "Reps/Duration": "Go for 30 seconds",
         "Description":
           "Stand with feet shoulder-width apart and squat down to place your hands on the floor.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=ieWAfIFh_Vg&t=139s",
       },
       {
         "Exercise": "Bonus: Jump Rope",
         "Reps/Duration": "Jump for 30 seconds",
         "Description":
           "Jump with a jump rope, landing on the balls of your feet.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=ieWAfIFh_Vg&t=146s",
       },
     ],
   },
@@ -106,41 +103,42 @@ const data = {
         "Reps/Duration": "As many as possible",
         "Description":
           "Set the handles of a suspension trainer around shin level and rest your feet on a bench behind you.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=QSZxe7Qf6mQ&t=58s",
       },
       {
         "Exercise": "Feet-Elevated Inverted Row",
         "Reps/Duration": "As many as possible",
         "Description":
           "Set the handles of a suspension trainer low enough so that when you hang from them with arms extended, your body is angled 45 degrees to the floor.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=QSZxe7Qf6mQ&t=80s",
       },
       {
         "Exercise": "Jump Squat",
         "Reps/Duration": "As many as possible",
         "Description":
           "Stand with feet between hip and shoulder-width and quickly lower your body until your thighs are parallel to the floor.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=QSZxe7Qf6mQ&t=99s",
       },
       {
         "Exercise": "Burpee",
         "Reps/Duration": "As many as possible",
         "Description":
           "Stand with your feet between hip and shoulder width and squat down to place your hands on the floor.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=QSZxe7Qf6mQ&t=115s",
       },
       {
         "Exercise": "Leg Flutter",
         "Reps/Duration": "Repeat for 60 seconds",
         "Description":
           "Flatten your lower back into the floor and brace your abs. Extend your legs overhead and then lower them as far as you can.",
-        "Link": "",
+        "Link": "https://www.youtube.com/watch?v=QSZxe7Qf6mQ&t=158s",
       },
       {
         "Exercise": "Sprint",
         "Reps/Duration": "Run for 30 seconds",
-        "Description": "Run as fast as you can maintain for 30 seconds.",
-        "Link": "",
+        "Description":
+          "Run as fast as you can maintain for 30 seconds. Other options are to run up a hill, or run in place.",
+        "Link": "https://www.youtube.com/watch?v=QSZxe7Qf6mQ&t=178s",
       },
     ],
   },
